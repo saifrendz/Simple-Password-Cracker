@@ -20,8 +20,10 @@ To use the password cracker, follow these steps:
    ```bash
    git clone https://github.com/saifrendz/Simple-Password-Cracker
    
-## Navigate to the project directory:
+2. Navigate to the project directory:
+   ```bash
    cd simple-password-cracker
 
-## Run the password cracker:
+3. Run the password cracker:
+   ```bash
    python password_cracker.py
