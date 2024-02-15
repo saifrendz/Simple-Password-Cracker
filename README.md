@@ -9,7 +9,6 @@ This project aims to provide a basic understanding of how password cracking work
 ## Features
 
 - Brute force password cracking algorithm
-- Adjustable character set and password length
 - Simple command-line interface
 
 ## Getting Started
